@@ -1,3 +1,7 @@
+Resposta a Questão 1:
+SOMA = 91.
+
+
 Respostas Questão 3:
 
 alternativa A - Resposta: 9
