@@ -1,9 +1,15 @@
 Respostas Questão 3:
+
 alternativa A - Resposta: 9
+
 alternativa B - Resposta: 128
+
 alternativa C - Resposta: 49
+
 alternativa D - Resposta: 100
+
 alternativa E - Resposta: 13
+
 alternativa F - Resposta: 21
 
 =============================================================================================
